@@ -60,8 +60,8 @@
     </plugins>
   </reporting>
   <scm>
-    <connection>scm:svn:svn:///repository1/monappli-web</connection>
-    <url> http://IPSERVEUR/svn/monappli-web</url >
+    <connection>scm:git:git://github.com/M1MIAGTeamPallaMu/TP1SIR_Maven_Git_Jenkins_Sonar.git</connection>
+    <url> https://github.com/M1MIAGTeamPallaMu/TP1SIR_Maven_Git_Jenkins_Sonar</url >
   </scm>
   <dependencies>
     <dependency>
